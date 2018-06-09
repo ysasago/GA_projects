@@ -1,0 +1,16 @@
+Yasu Sasago
+
+Final project: Predicting horse racing winners from the past 23 years race data
+
+Data Source: Japan Horse Racing Association Database
+Goal: Analyze the data to find out the estimated time for each horse to complete the race. The estimated time will give us the prediction of the order of placing.
+
+Contents of Data: 
+(1) Race results in the past 23 years; total time, last 600m time, ground condition, jockey, trainer, race course, race date, odds
+(2) Horse Information: breed, birth date, placing by distance, placement by ground condition, placement by race course, best time by distance
+(3) Jockey Information
+(4) Trainer Information
+
+Notes:
+Data is available in csv foramt.
+I have already started downloading the data four days ago, but my pc is still downloading the data.
